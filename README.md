@@ -117,10 +117,3 @@ jupyter lab
 3. **Quantization** (IVFPQ) achieves up to 384x compression with acceptable accuracy loss
 4. **Smart routing** enables optimal database selection based on query requirements
 
-## License
-
-This project is submitted as part of a Master's thesis at TH Köln.
-
-## Contact
-
-Cihat Özkurt - [Your Email]
