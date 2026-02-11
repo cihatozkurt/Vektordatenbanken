@@ -1,9 +1,5 @@
 # Vector Database Benchmark for Chatbot Applications
 
-**Author:** Cihat Özkurt  
-**Institution:** TH Köln - University of Applied Sciences  
-**Program:** Master's in Computer Science  
-
 ## Project Overview
 
 This project provides a comprehensive benchmarking framework for evaluating vector databases (FAISS, ChromaDB, Qdrant, Weaviate) in the context of chatbot and RAG (Retrieval-Augmented Generation) applications. The benchmark uses the BEIR dataset collection and multiple embedding models to assess performance across various metrics.
