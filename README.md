@@ -37,7 +37,7 @@ This project provides a comprehensive benchmarking framework for evaluating vect
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/vector-database-benchmark.git
+git clone https://github.com/cihatozkurt/Vektordatenbanken.git
 cd vector-database-benchmark
 ```
 
